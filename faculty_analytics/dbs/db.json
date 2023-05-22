@@ -1,0 +1,29 @@
+{
+  "mysql":
+  {
+    "host": "localhost",
+    "user": "root",
+    "password": "test_root",
+    "db": "academicworld",
+    "port": "3306",
+    "charset": "utf8mb4"
+  },
+  "mongo":
+  {
+    "host": "",
+    "user": "",
+    "password": "",
+    "db": "academicworld",
+    "port": "",
+    "charset": "utf8mb4"
+  },
+  "neo4j":
+  {
+    "host": "",
+    "user": "",
+    "password": "",
+    "db": "academicworld",
+    "port": "",
+    "charset": "utf8mb4"
+  }
+}
