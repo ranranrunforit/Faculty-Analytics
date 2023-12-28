@@ -1,7 +1,5 @@
 # Project : Faculty Analytics
 
-*Group member: Chaoran Zhou*
-
 **Title: Name of your application.**
 
 Faculty Analytics: Find the Faculty you want to connect!
